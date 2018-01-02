@@ -1,0 +1,4 @@
+#Sat Dec 30 19:29:38 CET 2017
+base.0=C\:\\AndroidProjects\\RobotCar.Devel.Tracking\\openCVTracking\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

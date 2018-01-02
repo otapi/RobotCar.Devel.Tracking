@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidProjects\\RobotCar.Devel.Tracking\\openCVTracking\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\AndroidProjects\\RobotCar.Devel.Tracking\\openCVTracking\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\RobotCar.Devel.Tracking\\openCVTracking\\build\\intermediates\\res\\merged\\debug\\layout_color_blob_detection_surface_view.xml.flat",
+        "source": "C:\\AndroidProjects\\RobotCar.Devel.Tracking\\openCVTracking\\src\\main\\res\\layout\\color_blob_detection_surface_view.xml"
+    }
+]
