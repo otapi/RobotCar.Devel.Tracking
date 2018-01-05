@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package net.otapigems.robotcar.devel.tracking.test;
+package com.otapigems.robotcar.devel.tracking;
 
 public final class R {
   public static final class attr {
@@ -29,10 +29,20 @@ public final class R {
      */
     public static final int show_fps=0x7f010001;
   }
+  public static final class drawable {
+    public static final int icon=0x7f020000;
+  }
   public static final class id {
-    public static final int any=0x7f020000;
-    public static final int back=0x7f020001;
-    public static final int front=0x7f020002;
+    public static final int any=0x7f030000;
+    public static final int back=0x7f030001;
+    public static final int color_blob_detection_activity_surface_view=0x7f030002;
+    public static final int front=0x7f030003;
+  }
+  public static final class layout {
+    public static final int color_blob_detection_surface_view=0x7f040000;
+  }
+  public static final class string {
+    public static final int app_name=0x7f050000;
   }
   public static final class styleable {
     /**
@@ -42,8 +52,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CameraBridgeViewBase_camera_id net.otapigems.robotcar.devel.tracking.test:camera_id}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraBridgeViewBase_show_fps net.otapigems.robotcar.devel.tracking.test:show_fps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraBridgeViewBase_camera_id com.otapigems.robotcar.devel.tracking:camera_id}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraBridgeViewBase_show_fps com.otapigems.robotcar.devel.tracking:show_fps}</code></td><td></td></tr>
      * </table>
      * @see #CameraBridgeViewBase_camera_id
      * @see #CameraBridgeViewBase_show_fps
@@ -52,7 +62,7 @@ public final class R {
         0x7f010000, 0x7f010001
       };
     /**
-     * <p>This symbol is the offset where the {@link net.otapigems.robotcar.devel.tracking.test.R.attr#camera_id}
+     * <p>This symbol is the offset where the {@link com.otapigems.robotcar.devel.tracking.R.attr#camera_id}
      * attribute's value can be found in the {@link #CameraBridgeViewBase} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -67,17 +77,17 @@ public final class R {
      * <tr><td>front</td><td>62</td><td></td></tr>
      * </table>
      *
-     * @attr name net.otapigems.robotcar.devel.tracking.test:camera_id
+     * @attr name com.otapigems.robotcar.devel.tracking:camera_id
      */
     public static final int CameraBridgeViewBase_camera_id=0;
     /**
-     * <p>This symbol is the offset where the {@link net.otapigems.robotcar.devel.tracking.test.R.attr#show_fps}
+     * <p>This symbol is the offset where the {@link com.otapigems.robotcar.devel.tracking.R.attr#show_fps}
      * attribute's value can be found in the {@link #CameraBridgeViewBase} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name net.otapigems.robotcar.devel.tracking.test:show_fps
+     * @attr name com.otapigems.robotcar.devel.tracking:show_fps
      */
     public static final int CameraBridgeViewBase_show_fps=1;
   }

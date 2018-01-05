@@ -1,1 +1,1 @@
-[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":301},"path":"resources-debug.ap_","properties":{"packageId":"net.otapigems.robotcar.devel.tracking","split":"","minSdkVersion":"23"}}]
+[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":301},"path":"resources-debug.ap_","properties":{"packageId":"com.otapigems.robotcar.devel.tracking","split":"","minSdkVersion":"23"}}]

@@ -1,11 +1,11 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package net.otapigems.robotcar.devel.tracking;
+package com.otapigems.robotcar.devel.tracking;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "net.otapigems.robotcar.devel.tracking";
+  public static final String APPLICATION_ID = "com.otapigems.robotcar.devel.tracking";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
   public static final int VERSION_CODE = 301;

@@ -1,4 +1,4 @@
-net.otapigems.robotcar.devel.tracking
+com.otapigems.robotcar.devel.tracking
 int attr camera_id 0x7f010000
 int attr show_fps 0x7f010001
 int drawable icon 0x7f020000
