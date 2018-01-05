@@ -36,7 +36,7 @@
         android:label="@string/app_name"
         android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
         <activity
-            android:name="net.otapigems.robotcar.devel.tracking.TrackingActivity"
+            android:name="com.otapigems.robotcar.devel.tracking.TrackingActivity"
             android:configChanges="keyboardHidden|orientation"
             android:label="@string/app_name"
             android:screenOrientation="landscape" >

@@ -1,7 +1,7 @@
 /*
     RobotCar.Devel.Tracking
     Color based tracking of multiple objects with OpenCV on Android. Activity layer for Android app.
-    Copyright (C) 2018  Barnabás Nagy - otapiGems.net - otapiGems@protonmail.ch
+    Copyright (C) 2018  Barnabás Nagy - otapiGems.com - otapiGems@protonmail.ch
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published

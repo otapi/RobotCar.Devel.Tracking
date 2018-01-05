@@ -30,7 +30,7 @@ ADDED from C:\AndroidProjects\RobotCar.Devel.Tracking\openCVTracking\src\main\An
 		ADDED from C:\AndroidProjects\RobotCar.Devel.Tracking\openCVTracking\src\main\AndroidManifest.xml:9:9-38
 	android:theme
 		ADDED from C:\AndroidProjects\RobotCar.Devel.Tracking\openCVTracking\src\main\AndroidManifest.xml:10:9-67
-activity#net.otapigems.robotcar.devel.tracking.TrackingActivity
+activity#com.otapigems.robotcar.devel.tracking.TrackingActivity
 ADDED from C:\AndroidProjects\RobotCar.Devel.Tracking\openCVTracking\src\main\AndroidManifest.xml:12:9-20:20
 	android:screenOrientation
 		ADDED from C:\AndroidProjects\RobotCar.Devel.Tracking\openCVTracking\src\main\AndroidManifest.xml:14:19-56
